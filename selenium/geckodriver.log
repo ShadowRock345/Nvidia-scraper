@@ -1,0 +1,1317 @@
+1642013270736	geckodriver	INFO	Listening on 127.0.0.1:56431
+1642013273762	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "56432" "-no-remote" "-profile" "C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofileN3ercE"
+*** You are running in headless mode.
+1642013273948	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofileN3ercE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56432/devtools/browser/4b6edf69-a250-49d6-b6e4-eda6c1c5260e
+1642013274644	Marionette	INFO	Listening on port 56437
+1642013274792	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642091024602	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+" "-no-remote" "-profile" "C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofileadZjqF"
+*** You are running in headless mode.
+1642013298282	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofileadZjqF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56488/devtools/browser/fcb955b2-b76c-45a8-968d-c04b7f4a6f22
+1642013299009	Marionette	INFO	Listening on port 56493
+1642013299101	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Listening on 127.0.0.1:56620
+1642013450631	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "56621" "-no-remote" "-profile" "C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofilePJJMcq"
+*** You are running in headless mode.
+1642013450820	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofilePJJMcq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56621/devtools/browser/2d640d89-16db-4357-b205-532122ba8c5a
+1642013451698	Marionette	INFO	Listening on port 56626
+1642013452153	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642013463275	geckodriver	INFO	Listening on 127.0.0.1:56668
+1642013466290	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "56669" "-no-remote" "-profile" "C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofileK7wlu6"
+*** You are running in headless mode.
+1642013466474	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofileK7wlu6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56669/devtools/browser/d42967ed-d7a8-49c4-9bcf-75c3e17bd068
+1642013467172	Marionette	INFO	Listening on port 56674
+1642013467331	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642013487197	geckodriver	INFO	Listening on 127.0.0.1:56716
+1642013490232	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "56717" "-no-remote" "-profile" "C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofilefzdtf3"
+*** You are running in headless mode.
+1642013490400	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofilefzdtf3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56717/devtools/browser/9f52e02f-d723-4bfc-8c63-e9a22e64cd7c
+1642013491264	Marionette	INFO	Listening on port 56722
+1642013491762	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Listening on 127.0.0.1:56784
+1642013569414	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "56785" "-no-remote" "-profile" "C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofileX8rbwk"
+*** You are running in headless mode.
+1642013569586	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofileX8rbwk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56785/devtools/browser/bd63314f-c5f0-4dde-9f7d-5a67b43ebe9a
+1642013570285	Marionette	INFO	Listening on port 56790
+1642013570433	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Listening on 127.0.0.1:56833
+1642013604859	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "56834" "-no-remote" "-profile" "C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofilecJ7qtn"
+*** You are running in headless mode.
+1642013605034	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofilecJ7qtn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56834/devtools/browser/73c76716-6e06-4996-bb8d-a981d1bbc4c0
+1642013605762	Marionette	INFO	Listening on port 56839
+1642013605878	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Listening on 127.0.0.1:56882
+1642013623166	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "56883" "-no-remote" "-profile" "C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofileyWSedh"
+*** You are running in headless mode.
+1642013623362	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofileyWSedh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56883/devtools/browser/2c9d1d3b-2ce4-4d0f-b78d-09c8a1b814c3
+1642013624091	Marionette	INFO	Listening on port 56888
+1642013624184	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642013677105	geckodriver	INFO	Listening on 127.0.0.1:56936
+1642013680138	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "56937" "-no-remote" "-profile" "C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofileX69M9G"
+*** You are running in headless mode.
+1642013680327	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofileX69M9G\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56937/devtools/browser/83adcfa7-dc74-4ebe-9f18-f832b58bbb57
+1642013681041	Marionette	INFO	Listening on port 56942
+1642013681177	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642013681286	Marionette	INFO	Stopped listening on port 56942
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/rep-utils
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/shared/dom-node-constants
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/prop-rep
+http://requirejs.org/docs/errors.html#scripterror
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642091126990	geckodriver	INFO	Listening on 127.0.0.1:59802
+1642091130034	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "59803" "-no-remote" "-profile" "C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofilepavUW8"
+*** You are running in headless mode.
+1642091130233	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofilepavUW8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59803/devtools/browser/e86770a0-be78-4be4-ae63-13ba3ec0361e
+1642091131033	Marionette	INFO	Listening on port 59808
+1642091131056	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642091131164	Marionette	INFO	Stopped listening on port 59808
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/rep-utils
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/shared/dom-node-constants
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/prop-rep
+http://requirejs.org/docs/errors.html#scripterror
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642092622487	geckodriver	INFO	Listening on 127.0.0.1:65223
+1642092625545	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "65224" "-no-remote" "-profile" "C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofileMqSttY"
+*** You are running in headless mode.
+1642092625749	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofileMqSttY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65224/devtools/browser/16bf4d4f-dd1a-4556-b1f8-f5c4f915ce05
+1642092626530	Marionette	INFO	Listening on port 65230
+1642092626564	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642092626688	Marionette	INFO	Stopped listening on port 65230
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/prop-rep
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/shared/grip-length-bubble
+http://requirejs.org/docs/errors.html#scripterror
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642092824388	geckodriver	INFO	Listening on 127.0.0.1:65276
+1642092827475	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "65277" "-no-remote" "-profile" "C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofile7upqQi"
+*** You are running in headless mode.
+1642092827642	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofile7upqQi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65277/devtools/browser/afdb4922-b679-4285-a13e-feba85e77b0e
+1642092828389	Marionette	INFO	Listening on port 65282
+1642092828491	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642092828596	Marionette	INFO	Stopped listening on port 65282
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/rep-utils
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/shared/dom-node-constants
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/prop-rep
+http://requirejs.org/docs/errors.html#scripterror
+1642093061555	geckodriver	INFO	Listening on 127.0.0.1:49519
+1642093064614	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "49520" "-no-remote" "-profile" "C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofilepiisx9"
+*** You are running in headless mode.
+1642093064840	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofilepiisx9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49520/devtools/browser/a5b266e3-0f5a-4e64-b709-392a1ea99ee8
+1642093065484	Marionette	INFO	Listening on port 49525
+1642093065647	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642093065784	Marionette	INFO	Stopped listening on port 49525
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/rep-utils
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/shared/dom-node-constants
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/prop-rep
+http://requirejs.org/docs/errors.html#scripterror
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642093172983	geckodriver	INFO	Listening on 127.0.0.1:54723
+1642093176013	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "54724" "-no-remote" "-profile" "C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofileIL8XZb"
+*** You are running in headless mode.
+1642093176215	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofileIL8XZb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54724/devtools/browser/2d3dfcd0-491c-44e3-a222-dc55becc113c
+1642093176942	Marionette	INFO	Listening on port 54729
+1642093177035	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642093177170	Marionette	INFO	Stopped listening on port 54729
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/prop-rep
+http://requirejs.org/docs/errors.html#scripterror
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/shared/grip-length-bubble
+http://requirejs.org/docs/errors.html#scripterror
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1642093344992	geckodriver	INFO	Listening on 127.0.0.1:54805
+1642093348074	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "54806" "-no-remote" "-profile" "C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofilessrrx9"
+*** You are running in headless mode.
+1642093348282	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofilessrrx9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54806/devtools/browser/9379e4e7-4bce-4379-8dc2-cb444ece7847
+1642093348985	Marionette	INFO	Listening on port 54811
+1642093349121	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642093349235	Marionette	INFO	Stopped listening on port 54811
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/prop-rep
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/shared/grip-length-bubble
+http://requirejs.org/docs/errors.html#scripterror
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642093361787	geckodriver	INFO	Listening on 127.0.0.1:54834
+1642093364843	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "54835" "-no-remote" "-profile" "C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofiledTwa76"
+*** You are running in headless mode.
+1642093365047	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofiledTwa76\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54835/devtools/browser/8e89b537-45d4-4266-9c89-1a1b9747b6c1
+1642093365823	Marionette	INFO	Listening on port 54840
+1642093365882	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642093365989	Marionette	INFO	Stopped listening on port 54840
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/rep-utils
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/shared/dom-node-constants
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/prop-rep
+http://requirejs.org/docs/errors.html#scripterror
+1642093497167	geckodriver	INFO	Listening on 127.0.0.1:54876
+1642093500254	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "54877" "-no-remote" "-profile" "C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofileUekRFV"
+*** You are running in headless mode.
+1642093500436	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofileUekRFV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54877/devtools/browser/0ccd7285-9a9f-4e4a-8c02-c45b607594d7
+1642093501115	Marionette	INFO	Listening on port 54882
+1642093501273	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642093501380	Marionette	INFO	Stopped listening on port 54882
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/rep-utils
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/shared/dom-node-constants
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/prop-rep
+http://requirejs.org/docs/errors.html#scripterror
+1642093528009	geckodriver	INFO	Listening on 127.0.0.1:54906
+1642093531075	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "54907" "-no-remote" "-profile" "C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofileuJZIdp"
+*** You are running in headless mode.
+1642093531284	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofileuJZIdp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54907/devtools/browser/881c0cac-b5bb-4f6b-90d4-8e92fb8f9f8f
+1642093532015	Marionette	INFO	Listening on port 54912
+1642093532096	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642093532206	Marionette	INFO	Stopped listening on port 54912
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/rep-utils
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/shared/dom-node-constants
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/prop-rep
+http://requirejs.org/docs/errors.html#scripterror
+1642093704924	geckodriver	INFO	Listening on 127.0.0.1:54971
+1642093707993	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "54972" "-no-remote" "-profile" "C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofileuqr1af"
+*** You are running in headless mode.
+1642093708184	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofileuqr1af\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54972/devtools/browser/8f842ca2-5923-44be-b63a-6dc343b86938
+1642093708885	Marionette	INFO	Listening on port 54977
+1642093709036	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642093709141	Marionette	INFO	Stopped listening on port 54977
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/rep-utils
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/shared/dom-node-constants
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/prop-rep
+http://requirejs.org/docs/errors.html#scripterror
+1642093748130	geckodriver	INFO	Listening on 127.0.0.1:55000
+1642093751204	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "55001" "-no-remote" "-profile" "C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofileEsciw0"
+*** You are running in headless mode.
+1642093751410	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofileEsciw0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55001/devtools/browser/e32257d8-a535-4f7e-a98a-a16fd2240492
+1642093752182	Marionette	INFO	Listening on port 55006
+1642093752229	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642093752350	Marionette	INFO	Stopped listening on port 55006
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/rep-utils
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/shared/dom-node-constants
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/prop-rep
+http://requirejs.org/docs/errors.html#scripterror
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642093843104	geckodriver	INFO	Listening on 127.0.0.1:55053
+1642093846156	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "55054" "-no-remote" "-profile" "C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofile7VNkc2"
+*** You are running in headless mode.
+1642093846326	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofile7VNkc2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55054/devtools/browser/6b8d7367-4360-4796-9aa0-6bd54b102594
+1642093847112	Marionette	INFO	Listening on port 55060
+1642093847180	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642093847305	Marionette	INFO	Stopped listening on port 55060
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/rep-utils
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/shared/dom-node-constants
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/prop-rep
+http://requirejs.org/docs/errors.html#scripterror
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642093856316	geckodriver	INFO	Listening on 127.0.0.1:55085
+1642093859358	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "55086" "-no-remote" "-profile" "C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofile7VBavt"
+*** You are running in headless mode.
+1642093859547	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofile7VBavt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55086/devtools/browser/700bfbb6-cb93-4fab-b70f-5fa4ba47606a
+1642093860148	Marionette	INFO	Listening on port 55092
+1642093860377	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642093860493	Marionette	INFO	Stopped listening on port 55092
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/tree/TreeCell
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/tree/LabelCell
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/focus
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/rep-utils
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/shared/dom-node-constants
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/prop-rep
+http://requirejs.org/docs/errors.html#scripterror
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642094119304	geckodriver	INFO	Listening on 127.0.0.1:55126
+1642094122325	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "55127" "-no-remote" "-profile" "C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofileieNgXk"
+*** You are running in headless mode.
+1642094122495	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofileieNgXk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55127/devtools/browser/1383a7ee-6d21-4138-a151-02e8a3960811
+1642094123204	Marionette	INFO	Listening on port 55132
+1642094123358	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642094123465	Marionette	INFO	Stopped listening on port 55132
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/rep-utils
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/shared/dom-node-constants
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/prop-rep
+http://requirejs.org/docs/errors.html#scripterror
+1642094204146	geckodriver	INFO	Listening on 127.0.0.1:55156
+1642094207183	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "55157" "-no-remote" "-profile" "C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofileTiT7bd"
+*** You are running in headless mode.
+1642094207366	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofileTiT7bd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55157/devtools/browser/43eff30c-e8d9-415c-a7b8-12c004974e69
+1642094208089	Marionette	INFO	Listening on port 55166
+1642094208226	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642094208358	Marionette	INFO	Stopped listening on port 55166
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/rep-utils
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/shared/dom-node-constants
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/prop-rep
+http://requirejs.org/docs/errors.html#scripterror
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1642094224770	geckodriver	INFO	Listening on 127.0.0.1:55191
+1642094227806	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "55192" "-no-remote" "-profile" "C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofile5kLBK2"
+*** You are running in headless mode.
+1642094228007	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofile5kLBK2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55192/devtools/browser/7677ac48-2576-48fc-9e22-ccc1ffc8145b
+1642094228650	Marionette	INFO	Listening on port 55197
+1642094228826	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642094228963	Marionette	INFO	Stopped listening on port 55197
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/rep-utils
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/shared/dom-node-constants
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/prop-rep
+http://requirejs.org/docs/errors.html#scripterror
+1642094240448	geckodriver	INFO	Listening on 127.0.0.1:55219
+1642094243479	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "55220" "-no-remote" "-profile" "C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofilegIxNcU"
+*** You are running in headless mode.
+1642094243679	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofilegIxNcU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55220/devtools/browser/a0974eba-2b72-456f-8376-623f6638fe1b
+1642094244311	Marionette	INFO	Listening on port 55225
+1642094244507	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642094244619	Marionette	INFO	Stopped listening on port 55225
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/rep-utils
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/shared/dom-node-constants
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/prop-rep
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/shared/grip-length-bubble
+http://requirejs.org/docs/errors.html#scripterror
+1642094271934	geckodriver	INFO	Listening on 127.0.0.1:55249
+1642094274952	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "55250" "-no-remote" "-profile" "C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofile2GGJ0Q"
+*** You are running in headless mode.
+1642094275139	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofile2GGJ0Q\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55250/devtools/browser/addf931d-c74e-462e-8f79-6dd0211130aa
+1642094275785	Marionette	INFO	Listening on port 55255
+1642094275968	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642094276074	Marionette	INFO	Stopped listening on port 55255
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/shared/grip-length-bubble
+http://requirejs.org/docs/errors.html#scripterror
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1642094304743	geckodriver	INFO	Listening on 127.0.0.1:51408
+1642094307812	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "51409" "-no-remote" "-profile" "C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofileoQbUjf"
+*** You are running in headless mode.
+1642094307988	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofileoQbUjf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51409/devtools/browser/2fe92d2a-30a9-489e-ae69-21783f0047b9
+1642094308743	Marionette	INFO	Listening on port 51414
+1642094308849	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642094308965	Marionette	INFO	Stopped listening on port 51414
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/rep-utils
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/shared/dom-node-constants
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/prop-rep
+http://requirejs.org/docs/errors.html#scripterror
+1642094320292	geckodriver	INFO	Listening on 127.0.0.1:51438
+1642094323383	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "51441" "-no-remote" "-profile" "C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofile8B1nb8"
+*** You are running in headless mode.
+1642094323585	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofile8B1nb8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51441/devtools/browser/8ffdaf34-eb19-4eb1-b32d-62a8f723903e
+1642094324438	Marionette	INFO	Listening on port 51446
+1642094324932	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642094325051	Marionette	INFO	Stopped listening on port 51446
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/undefined
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/null
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/string
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/number
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/array
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/object
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/symbol
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/accessor
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/infinity
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/nan
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/accessible
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/attribute
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/big-int
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/date-time
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/document
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/document-type
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/event
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/function
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/promise
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/regexp
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/stylesheet
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/comment-node
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/element-node
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/text-node
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/window
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/object-with-text
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/error
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/object-with-url
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/grip-array
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/grip-map-entry
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/grip-map
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/grip
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/tree/TreeCell
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/tree/LabelCell
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/focus
+http://requirejs.org/docs/errors.html#scripterror
+1642094339188	geckodriver	INFO	Listening on 127.0.0.1:51480
+1642094342272	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "51481" "-no-remote" "-profile" "C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofileRD55Oh"
+*** You are running in headless mode.
+1642094342443	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofileRD55Oh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51481/devtools/browser/0a59c391-fbef-4e68-ab3f-64b6a23a9a3b
+1642094343174	Marionette	INFO	Listening on port 51487
+1642094343302	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642094343394	Marionette	INFO	Stopped listening on port 51487
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/rep-utils
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/shared/dom-node-constants
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/prop-rep
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/shared/grip-length-bubble
+http://requirejs.org/docs/errors.html#scripterror
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642094350179	geckodriver	INFO	Listening on 127.0.0.1:51510
+1642094353262	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "51511" "-no-remote" "-profile" "C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofileV1ZG6w"
+*** You are running in headless mode.
+1642094353450	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofileV1ZG6w\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51511/devtools/browser/66e99901-669a-4810-a49e-2de46243fac6
+1642094354137	Marionette	INFO	Listening on port 51516
+1642094354299	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642094354393	Marionette	INFO	Stopped listening on port 51516
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/shared/dom-node-constants
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/prop-rep
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/shared/grip-length-bubble
+http://requirejs.org/docs/errors.html#scripterror
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1642094373287	geckodriver	INFO	Listening on 127.0.0.1:51538
+1642094376362	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "51539" "-no-remote" "-profile" "C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofileYRFlwu"
+*** You are running in headless mode.
+1642094376564	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofileYRFlwu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51539/devtools/browser/3997c0df-699f-4869-a115-9c24dd45a72e
+1642094377318	Marionette	INFO	Listening on port 51544
+1642094377395	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642094377522	Marionette	INFO	Stopped listening on port 51544
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/rep-utils
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/shared/dom-node-constants
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/prop-rep
+http://requirejs.org/docs/errors.html#scripterror
+1642094406015	geckodriver	INFO	Listening on 127.0.0.1:64357
+1642094409093	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "64358" "-no-remote" "-profile" "C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofilep6RmOs"
+*** You are running in headless mode.
+1642094409271	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofilep6RmOs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64358/devtools/browser/4e5f4bcd-7826-4e59-8479-e9356de1a06f
+1642094409866	Marionette	INFO	Listening on port 64363
+1642094410125	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642094410250	Marionette	INFO	Stopped listening on port 64363
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/rep-utils
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/shared/dom-node-constants
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/prop-rep
+http://requirejs.org/docs/errors.html#scripterror
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642094420143	geckodriver	INFO	Listening on 127.0.0.1:64387
+1642094423243	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "64388" "-no-remote" "-profile" "C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofilevkpNKZ"
+*** You are running in headless mode.
+1642094423406	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofilevkpNKZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64388/devtools/browser/3e59b44e-1bf5-4eb9-8353-2c66f81ba9ee
+1642094424114	Marionette	INFO	Listening on port 64393
+1642094424272	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642094424370	Marionette	INFO	Stopped listening on port 64393
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/shared/dom-node-constants
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/prop-rep
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/shared/grip-length-bubble
+http://requirejs.org/docs/errors.html#scripterror
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642094441206	geckodriver	INFO	Listening on 127.0.0.1:64416
+1642094444312	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "64417" "-no-remote" "-profile" "C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofile8vl4pL"
+*** You are running in headless mode.
+1642094444507	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofile8vl4pL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64417/devtools/browser/df65c877-17de-4e4b-b6f2-1eff60f262cb
+1642094445188	Marionette	INFO	Listening on port 64422
+1642094445343	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642094445456	Marionette	INFO	Stopped listening on port 64422
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/prop-rep
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/shared/grip-length-bubble
+http://requirejs.org/docs/errors.html#scripterror
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642094461468	geckodriver	INFO	Listening on 127.0.0.1:64464
+1642094464550	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "64465" "-no-remote" "-profile" "C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofileWtT85Y"
+*** You are running in headless mode.
+1642094464753	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofileWtT85Y\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64465/devtools/browser/b23d93a3-9061-49c2-9942-fc3a85a9192b
+1642094465567	Marionette	INFO	Listening on port 64470
+1642094465585	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642094465753	Marionette	INFO	Stopped listening on port 64470
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/rep-utils
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/shared/dom-node-constants
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/prop-rep
+http://requirejs.org/docs/errors.html#scripterror
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642094510332	geckodriver	INFO	Listening on 127.0.0.1:64493
+1642094513397	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "64494" "-no-remote" "-profile" "C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofilej9747x"
+*** You are running in headless mode.
+1642094513600	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofilej9747x\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64494/devtools/browser/e4f745f6-14b1-477a-a441-658e65f4395e
+1642094514303	Marionette	INFO	Listening on port 64499
+1642094514439	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642094514565	Marionette	INFO	Stopped listening on port 64499
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/rep-utils
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/shared/dom-node-constants
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/prop-rep
+http://requirejs.org/docs/errors.html#scripterror
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642094541810	geckodriver	INFO	Listening on 127.0.0.1:64523
+1642094544902	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "64524" "-no-remote" "-profile" "C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofilehPNdkK"
+*** You are running in headless mode.
+1642094545088	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofilehPNdkK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64524/devtools/browser/7be3e559-d16d-43cd-a6c5-6f9203144314
+1642094545822	Marionette	INFO	Listening on port 64529
+1642094545919	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642094546029	Marionette	INFO	Stopped listening on port 64529
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/rep-utils
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/shared/dom-node-constants
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/prop-rep
+http://requirejs.org/docs/errors.html#scripterror
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642094605629	geckodriver	INFO	Listening on 127.0.0.1:64557
+1642094608697	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "64558" "-no-remote" "-profile" "C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofiler6dRwn"
+*** You are running in headless mode.
+1642094608866	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofiler6dRwn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64558/devtools/browser/3f749a3b-085e-44cc-b718-aaecb4e2f078
+1642094609569	Marionette	INFO	Listening on port 64563
+1642094609732	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642094609846	Marionette	INFO	Stopped listening on port 64563
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/rep-utils
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/shared/dom-node-constants
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/prop-rep
+http://requirejs.org/docs/errors.html#scripterror
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642094807614	geckodriver	INFO	Listening on 127.0.0.1:64641
+1642094810692	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "64642" "-no-remote" "-profile" "C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofilevLKrMN"
+*** You are running in headless mode.
+1642094810881	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofilevLKrMN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64642/devtools/browser/b7ef3bc5-3a1e-4237-b122-899dcfe736d4
+1642094811597	Marionette	INFO	Listening on port 64649
+1642094811727	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642094811857	Marionette	INFO	Stopped listening on port 64649
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/rep-utils
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/shared/dom-node-constants
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/prop-rep
+http://requirejs.org/docs/errors.html#scripterror
+1642094839865	geckodriver	INFO	Listening on 127.0.0.1:64673
+1642094842900	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "64674" "-no-remote" "-profile" "C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofileCTEHgO"
+*** You are running in headless mode.
+1642094843092	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofileCTEHgO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64674/devtools/browser/27ab5333-592e-4f10-8a7e-655e19e3bbc8
+1642094843812	Marionette	INFO	Listening on port 64679
+1642094843923	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642094844054	Marionette	INFO	Stopped listening on port 64679
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/rep-utils
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/shared/dom-node-constants
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/prop-rep
+http://requirejs.org/docs/errors.html#scripterror
+1642094913574	geckodriver	INFO	Listening on 127.0.0.1:64709
+1642094916632	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "64710" "-no-remote" "-profile" "C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofileAHCWXl"
+*** You are running in headless mode.
+1642094916832	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofileAHCWXl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64710/devtools/browser/4951388f-1053-4a19-abcb-900f50960564
+1642094917559	Marionette	INFO	Listening on port 64727
+1642094917664	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642094917775	Marionette	INFO	Stopped listening on port 64727
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/rep-utils
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/shared/dom-node-constants
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/prop-rep
+http://requirejs.org/docs/errors.html#scripterror
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642095028781	geckodriver	INFO	Listening on 127.0.0.1:64800
+1642095031851	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "64801" "-no-remote" "-profile" "C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofile9TZt55"
+*** You are running in headless mode.
+1642095032040	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofile9TZt55\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64801/devtools/browser/954a457b-a547-43f1-b142-d091b8c53636
+1642095032745	Marionette	INFO	Listening on port 64806
+1642095032881	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642095033000	Marionette	INFO	Stopped listening on port 64806
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/rep-utils
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/shared/dom-node-constants
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/prop-rep
+http://requirejs.org/docs/errors.html#scripterror
+1642095053524	geckodriver	INFO	Listening on 127.0.0.1:64830
+1642095056632	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "64831" "-no-remote" "-profile" "C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofile8FFhng"
+*** You are running in headless mode.
+1642095056832	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofile8FFhng\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64831/devtools/browser/2a29e0cf-be4e-4581-baa6-ba1a05c7e3ee
+1642095057654	Marionette	INFO	Listening on port 64836
+1642095058161	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642095058282	Marionette	INFO	Stopped listening on port 64836
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1059: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Jonas\AppData\Local\Temp\rust_mozprofile8FFhng\protections.sqlite
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642095069413	geckodriver	INFO	Listening on 127.0.0.1:64867
+1642095072502	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "64868" "-no-remote" "-profile" "C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofileEnnE49"
+*** You are running in headless mode.
+1642095072706	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofileEnnE49\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64868/devtools/browser/597f6c9b-e1c0-47e4-a8c0-473b25b90901
+1642095073501	Marionette	INFO	Listening on port 64873
+1642095073531	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642095073627	Marionette	INFO	Stopped listening on port 64873
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/rep-utils
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/shared/dom-node-constants
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/prop-rep
+http://requirejs.org/docs/errors.html#scripterror
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642095424708	geckodriver	INFO	Listening on 127.0.0.1:62753
+1642095427791	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "62754" "-no-remote" "-profile" "C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofileFDcads"
+*** You are running in headless mode.
+1642095427981	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofileFDcads\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62754/devtools/browser/e82d5761-8ca7-4d30-ba35-6be87270ffa2
+1642095428707	Marionette	INFO	Listening on port 62759
+1642095428835	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642095428948	Marionette	INFO	Stopped listening on port 62759
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/rep-utils
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/shared/dom-node-constants
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/prop-rep
+http://requirejs.org/docs/errors.html#scripterror
+1642095449286	geckodriver	INFO	Listening on 127.0.0.1:62801
+1642095452356	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "62802" "-no-remote" "-profile" "C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofileJLWO8J"
+*** You are running in headless mode.
+1642095452554	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofileJLWO8J\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62802/devtools/browser/ba30f647-d084-4279-ae89-760f87c77d99
+1642095453251	Marionette	INFO	Listening on port 62807
+1642095453395	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642095453529	Marionette	INFO	Stopped listening on port 62807
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/string
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/number
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/array
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/object
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/symbol
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/infinity
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/nan
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/accessor
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/attribute
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/accessible
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/big-int
+http://requirejs.org/docs/errors.html#scripterror
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/date-time
+http://requirejs.org/docs/errors.html#scripterror
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/document
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/document-type
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/event
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/function
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/promise
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/regexp
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/stylesheet
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/comment-node
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/element-node
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/text-node
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/error
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/window
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/object-with-text
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/object-with-url
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/grip-array
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/grip-map
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/grip-map-entry
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/grip
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/tree/TreeCell
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/tree/LabelCell
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/focus
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/rep-utils
+http://requirejs.org/docs/errors.html#scripterror
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642095518118	geckodriver	INFO	Listening on 127.0.0.1:62829
+1642095521191	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "62830" "-no-remote" "-profile" "C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofilewqx94C"
+*** You are running in headless mode.
+1642095521387	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofilewqx94C\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62830/devtools/browser/4f0d329e-206d-4e97-88da-eb6acfd9837f
+1642095522074	Marionette	INFO	Listening on port 62835
+1642095522221	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642095522375	Marionette	INFO	Stopped listening on port 62835
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1642095641306	geckodriver	INFO	Listening on 127.0.0.1:62870
+1642095644401	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "62871" "-no-remote" "-profile" "C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofilexRrG1p"
+*** You are running in headless mode.
+1642095644571	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofilexRrG1p\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62871/devtools/browser/de81e96d-221b-41db-ac0f-986b08c01ef3
+1642095645325	Marionette	INFO	Listening on port 62876
+1642095645436	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642095645595	Marionette	INFO	Stopped listening on port 62876
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/rep-utils
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/shared/dom-node-constants
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/prop-rep
+http://requirejs.org/docs/errors.html#scripterror
+1642095862442	geckodriver	INFO	Listening on 127.0.0.1:62928
+1642095865511	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "62929" "-no-remote" "-profile" "C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofileRKJN5O"
+*** You are running in headless mode.
+1642095865718	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofileRKJN5O\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62929/devtools/browser/aef1fb1d-58ce-4b35-9893-62c83cda109c
+1642095866422	Marionette	INFO	Listening on port 62934
+1642095866547	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642095866669	Marionette	INFO	Stopped listening on port 62934
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/rep-utils
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/shared/dom-node-constants
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/prop-rep
+http://requirejs.org/docs/errors.html#scripterror
+1642348665535	geckodriver	INFO	Listening on 127.0.0.1:52835
+1642348668588	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "52836" "-no-remote" "-profile" "C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofileJvtvT6"
+*** You are running in headless mode.
+1642348668798	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofileJvtvT6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52836/devtools/browser/c61aaad1-a293-47a8-9477-33b7766059d0
+1642348669516	Marionette	INFO	Listening on port 52843
+1642348669636	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642348669747	Marionette	INFO	Stopped listening on port 52843
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/rep-utils
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/shared/dom-node-constants
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/prop-rep
+http://requirejs.org/docs/errors.html#scripterror
+1642348682202	geckodriver	INFO	Listening on 127.0.0.1:52865
+1642348685263	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "52866" "-no-remote" "-profile" "C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofileVVwsuT"
+*** You are running in headless mode.
+1642348685438	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofileVVwsuT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52866/devtools/browser/40fcd46a-9d8f-4d14-be88-196dedd550a3
+1642348686176	Marionette	INFO	Listening on port 52871
+1642348686289	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642348686428	Marionette	INFO	Stopped listening on port 52871
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/rep-utils
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/shared/dom-node-constants
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/prop-rep
+http://requirejs.org/docs/errors.html#scripterror
+1642348765231	geckodriver	INFO	Listening on 127.0.0.1:62893
+1642348768250	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "62894" "-no-remote" "-profile" "C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofileF9NmDu"
+*** You are running in headless mode.
+1642348768452	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofileF9NmDu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62894/devtools/browser/2b5033f3-afa6-4f12-bae2-679a1cef9093
+1642348769202	Marionette	INFO	Listening on port 62900
+1642348769285	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642348769451	Marionette	INFO	Stopped listening on port 62900
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642348807666	geckodriver	INFO	Listening on 127.0.0.1:62973
+1642348810703	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "62974" "-no-remote" "-profile" "C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofilewbY5i0"
+*** You are running in headless mode.
+1642348810882	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofilewbY5i0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62974/devtools/browser/f6740f71-adec-477c-ac85-16978283d3f3
+1642348811636	Marionette	INFO	Listening on port 62984
+1642348811745	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642348812050	Marionette	INFO	Stopped listening on port 62984
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/rep-utils
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/shared/dom-node-constants
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/prop-rep
+http://requirejs.org/docs/errors.html#scripterror
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642348858893	geckodriver	INFO	Listening on 127.0.0.1:63107
+1642348861923	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "63108" "-no-remote" "-profile" "C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofilenod0mS"
+*** You are running in headless mode.
+1642348862131	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofilenod0mS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63108/devtools/browser/4d757886-5365-4626-8937-19cc858321ea
+1642348862802	Marionette	INFO	Listening on port 63113
+1642348862942	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642348863096	Marionette	INFO	Stopped listening on port 63113
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/rep-utils
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/shared/dom-node-constants
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/prop-rep
+http://requirejs.org/docs/errors.html#scripterror
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642348890954	geckodriver	INFO	Listening on 127.0.0.1:63143
+1642348893982	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "63144" "-no-remote" "-profile" "C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofileDFQ55s"
+*** You are running in headless mode.
+1642348894156	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofileDFQ55s\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63144/devtools/browser/22dcd4e5-e935-4448-9628-59fbb3d1765c
+1642348895019	Marionette	INFO	Listening on port 63149
+1642348895508	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642348895634	Marionette	INFO	Stopped listening on port 63149
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/rep-utils
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/shared/dom-node-constants
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/prop-rep
+http://requirejs.org/docs/errors.html#scripterror
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1642348903455	geckodriver	INFO	Listening on 127.0.0.1:63179
+1642348906495	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "63180" "-no-remote" "-profile" "C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofilek5VbgV"
+*** You are running in headless mode.
+1642348909140	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofilek5VbgV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63180/devtools/browser/d8caf6b5-4955-40c4-85c0-d2ca443ffe70
+1642348910032	Marionette	INFO	Listening on port 63188
+1642348910198	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642348910344	Marionette	INFO	Stopped listening on port 63188
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/undefined
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/null
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/string
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/number
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/array
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/object
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/symbol
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/infinity
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/nan
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/accessor
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/accessible
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/attribute
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/big-int
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/document
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/date-time
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/document-type
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/event
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/function
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/promise
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/regexp
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/stylesheet
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/comment-node
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/element-node
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/text-node
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/error
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/window
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/object-with-url
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/object-with-text
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/grip-array
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/grip-map
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/grip-map-entry
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/grip
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/tree/TreeCell
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/tree/LabelCell
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/focus
+http://requirejs.org/docs/errors.html#scripterror
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642349038079	geckodriver	INFO	Listening on 127.0.0.1:63387
+1642349041108	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "63388" "-no-remote" "-profile" "C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofileDgXa2B"
+*** You are running in headless mode.
+1642349041262	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofileDgXa2B\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63388/devtools/browser/5dfbdcad-6010-40bf-8221-af787f47e153
+1642349041971	Marionette	INFO	Listening on port 63395
+1642349042140	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642349042247	Marionette	INFO	Stopped listening on port 63395
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/rep-utils
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/shared/dom-node-constants
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/prop-rep
+http://requirejs.org/docs/errors.html#scripterror
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642349114861	geckodriver	INFO	Listening on 127.0.0.1:63434
+1642349117891	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "63435" "-no-remote" "-profile" "C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofileK8J3EG"
+*** You are running in headless mode.
+1642349118083	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofileK8J3EG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63435/devtools/browser/350dd836-04a5-45f9-b1d2-4c68f41afe3f
+1642349118820	Marionette	INFO	Listening on port 63442
+1642349118910	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642349119048	Marionette	INFO	Stopped listening on port 63442
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/rep-utils
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/shared/dom-node-constants
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/prop-rep
+http://requirejs.org/docs/errors.html#scripterror
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642349207754	geckodriver	INFO	Listening on 127.0.0.1:63507
+1642349210820	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "63508" "-no-remote" "-profile" "C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofileB9vQl6"
+*** You are running in headless mode.
+1642349211027	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofileB9vQl6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63508/devtools/browser/196fa861-1b3a-43d9-bde9-beaf32eb5282
+1642349211807	Marionette	INFO	Listening on port 63513
+1642349211854	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642349211987	Marionette	INFO	Stopped listening on port 63513
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/rep-utils
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/shared/dom-node-constants
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/prop-rep
+http://requirejs.org/docs/errors.html#scripterror
+1642349224478	geckodriver	INFO	Listening on 127.0.0.1:63536
+1642349227575	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "63537" "-no-remote" "-profile" "C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofilefO0eeZ"
+*** You are running in headless mode.
+1642349227777	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofilefO0eeZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63537/devtools/browser/51fa05a4-09b6-4fc3-ae4e-24d615abbef3
+1642349228524	Marionette	INFO	Listening on port 63542
+1642349228603	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642349228700	Marionette	INFO	Stopped listening on port 63542
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/rep-utils
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/shared/dom-node-constants
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/prop-rep
+http://requirejs.org/docs/errors.html#scripterror
+1642350696146	geckodriver	INFO	Listening on 127.0.0.1:49814
+1642350699184	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "49815" "-no-remote" "-profile" "C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofile7H34Vj"
+*** You are running in headless mode.
+1642350699359	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonas\\AppData\\Local\\Temp\\rust_mozprofile7H34Vj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49815/devtools/browser/12f1e92c-df9c-46ce-aa7a-6705f445594e
+1642350700091	Marionette	INFO	Listening on port 49820
+1642350700230	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642350700322	Marionette	INFO	Stopped listening on port 49820
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/rep-utils
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/shared/dom-node-constants
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/prop-rep
+http://requirejs.org/docs/errors.html#scripterror
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
